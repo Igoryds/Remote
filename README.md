@@ -24,3 +24,5 @@ git pull
 ```
 git push
 ```
+
+Список удаленных репозиториев `git remote`
